@@ -1,0 +1,2 @@
+8MGNHO2o7asoCAYP - mongodb user
+mongodb+srv://youngkims:8MGNHO2o7asoCAYP@cluster900.w09bq8n.mongodb.net/
